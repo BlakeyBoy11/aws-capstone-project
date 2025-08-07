@@ -32,7 +32,7 @@ The architecture was validated by deploying a containerized PICO-8 web game, pro
 ## Functioning Website
 
 
-![Website] (https://blake-projects.com)
+[View the Live Project Here!](https://blake-projects.com)
 
  
 
