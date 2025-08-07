@@ -18,11 +18,21 @@ The architecture was validated by deploying a containerized PICO-8 web game, pro
 
  
 
-![Architecture Diagram](docs/architecture_diagram.png)
+![Architecture Diagram](architecture_diagram.jpeg)
 
  
 
 ---
+
+
+---
+
+
+
+## Functioning Website
+
+
+![Website] (https://blake-projects.com)
 
  
 
